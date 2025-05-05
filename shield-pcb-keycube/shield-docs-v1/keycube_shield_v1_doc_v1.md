@@ -78,6 +78,8 @@ Placez cinq autres connecteurs **Conn_01x12_Pin** dans votre schéma en les espa
 
 > Vous devriez obtenir un schéma semblable à celui trouvable dans les [Annexes](#annexes) en [figure 10](#figure-10). N'oubliez pas de sauvergarder votre travail régulièrement.
 
+Reliez finalement la pin 7 du pico (GP05) à la broche 11 de la Matrice 1.
+
 ### Footprints
 
 Depuis le schéma KiCad, accédez à l'action **Assign footprints** comme indiqué en [figure 11](#figure-11). Sélectionnez tous vos connecteurs (6) **Conn_01x12_Pin** dans la fenêtre centrale (Footprint Assignments). Entrez **"1x12_P2.00"** dans la barre de recherche en haut de l'écran principal. Dans la fenêtre de droite (Filtered Footprints) double-cliquez sur **Connector_PinHeader_2.00mm:PinHeader_1x12_P2.00mm_Vertical**.
