@@ -155,6 +155,9 @@ Le shield tel que décris dans cette documentation n'a, à ce jour pas pu être 
 
 ## Annexes
 
+### Video
+[Version video sur la chaine Keyblock](https://www.youtube.com/watch?v=hm2tiRZiZvs)
+
 ### Figures
 
 #### figure 1
